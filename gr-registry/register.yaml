@@ -3,6 +3,7 @@ parties:
   95ECE7FE-73E1-4D7B-8F38-E84202851F17:
     stakeholderIDs:
       - E87F6E30-A24E-4502-866F-A14E7E582136
+      - af74af18-69f7-4183-8fb4-c0f7b837d72a
     name: Anton
     gitServerUsername: strogonoff
     contacts:
